@@ -1,3 +1,7 @@
 "Git basics exercise repository" 
 "Ali Eisami"
-"old line"
+<<<<<<< HEAD
+"new line"
+=======
+"new line"
+>>>>>>> feature
